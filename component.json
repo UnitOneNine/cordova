@@ -1,0 +1,10 @@
+{
+  "name": "Cordova",
+  "version": "2.5.0",
+  "main": "cordova.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
