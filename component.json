@@ -1,6 +1,6 @@
 {
   "name": "Cordova",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "main": "cordova.js",
   "ignore": [
     "**/.*",
